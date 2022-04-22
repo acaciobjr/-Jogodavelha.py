@@ -1,5 +1,5 @@
 # -Jogodavelha.py
-programa criado para fim acadêmico.
+jogo desenvolvido para fim acadêmico.
 
 
 table = [['_','_','_'],['_','_','_'],['_','_','_']]
